@@ -18,16 +18,16 @@ theme:
 
   # Icons
   rss: false
-  email_address: "katie@sedlmeyer.net" # Full email address, e.g. "sam@example.com"
+  email_address: "katie@sedlmeyer.net" 
   behance:
   bitbucket:
   dribbble: 
   facebook: 
   flickr:
-  github: "ksedlmeyer" # github profile name, e.g. "madebymunsters"
+  github: "ksedlmeyer" 
   google_plus:
   instagram: 
-  linkedin: "https://www.linkedin.com/pub/katie-sedlmeyer/25/231/48b" # Full URL
+  linkedin: "https://www.linkedin.com/pub/katie-sedlmeyer/25/231/48b" 
   pinterest:
   reddit:
   soundcloud:
@@ -39,7 +39,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-66625781-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
