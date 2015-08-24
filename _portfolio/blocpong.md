@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocpong
+title: BlocPong
 thumbnail-path: "img/blocpong.png"
 short-description: Use pure Javascript and the HTML5 canvas element to create a Pong replica.
 
