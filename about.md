@@ -6,7 +6,7 @@ feature-img: "img/color.png"
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/about.png)
+![]({{ site.baseurl }}/img/aboutSmall.png)
 
 I'm a freelance front end developer who brings a different persepctive to projects using the skills I gathered in my past adventures as a photographer and writer. Hopefully this page will give you a quick glance at my personality that you might not see on just my resume. Please don't hesitate to get in touch.
 
