@@ -49,5 +49,3 @@ This was the first project I built on my own. I learned a lot about using angula
 If I were to do the project again, I would probably invest in the design elements of the application a bit more. It is an incredibly simple looking application and could benefit from some more styling.
 
 Designing projects in the angularJS style appeals to me very much. I like how simple the code is when written. Being able to keep the html file so clean and using methods that repeat information are easy and clean ways to write and implement code. This is something I think will be very handy in the future.
-
-A live version of this project can be found [here](katies-task-list.herokuapp.com "tasklist").
