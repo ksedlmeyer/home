@@ -50,4 +50,4 @@ If I were to do the project again, I would probably invest in the design element
 
 Designing projects in the angularJS style appeals to me very much. I like how simple the code is when written. Being able to keep the html file so clean and using methods that repeat information are easy and clean ways to write and implement code. This is something I think will be very handy in the future.
 
-A live version of this project can be found <a href=katies-task-list.herokuapp.com>here</a>.
+A live version of this project can be found [here](katies-task-list.herokuapp.com "tasklist").
